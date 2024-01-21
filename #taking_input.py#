@@ -1,0 +1,5 @@
+#take input and save it as a variable
+
+name = input('what is your name? ')
+
+print('Hello' + name)
